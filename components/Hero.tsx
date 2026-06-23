@@ -102,7 +102,7 @@ export default function Hero() {
             {t('cta_projects')}
           </a>
           <a
-            href={locale === 'en' ? '/cv-en.pdf' : '/cv-es.pdf'}
+            href={locale === 'en' ? '/CV_Brandon_Isla_EN.pdf' : '/CV_Brandon_Isla_ES.pdf'}
             download
             className="px-8 py-3.5 border-2 border-teal-primary/60 text-teal-primary rounded-xl font-semibold hover:border-teal-primary hover:bg-teal-primary/5 transition-all text-center hover:-translate-y-0.5"
           >
