@@ -13,17 +13,17 @@ export default function Footer() {
   const t = useTranslations('nav');
 
   return (
-    <footer className="py-8 px-4 border-t border-gray-200 dark:border-gray-800">
+    <footer className="py-8 px-4 border-t border-slate-200 dark:border-gray-800 bg-[#EEF2F7] dark:bg-[#0F172A]">
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4">
-        <p className="text-sm text-gray-500 dark:text-gray-400">
-          &copy; {new Date().getFullYear()} Brandon Isla.
+        <p className="text-sm text-gray-500 dark:text-gray-500 font-mono-code">
+          &copy; 2026 · <span className="text-teal-primary font-semibold">Brandon Isla</span>
         </p>
-        <div className="flex gap-6 text-sm">
+        <div className="flex flex-wrap justify-center gap-5 text-xs font-medium">
           {footerLinks.map((link) => (
             <a
               key={link.key}
               href={link.href}
-              className="text-gray-500 dark:text-gray-400 hover:text-teal-primary transition-colors"
+              className="text-gray-400 dark:text-gray-500 hover:text-teal-primary transition-colors uppercase tracking-wide"
             >
               {t(link.key)}
             </a>

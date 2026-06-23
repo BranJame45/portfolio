@@ -6,34 +6,34 @@ export interface SkillCategory {
 export const skills: SkillCategory[] = [
   {
     category: 'backend',
-    items: ['Node.js', 'NestJS', 'Express.js', 'Python', 'FastAPI'],
+    items: ['Node.js', 'Express.js', 'NestJS', 'Python', 'FastAPI'],
+  },
+  {
+    category: 'databases',
+    items: ['PostgreSQL', 'SQL Server', 'MySQL', 'Prisma', 'SQLAlchemy'],
   },
   {
     category: 'frontend',
     items: ['Next.js', 'React', 'HTML5', 'CSS3', 'Tailwind CSS'],
   },
   {
-    category: 'databases',
-    items: ['PostgreSQL', 'MySQL', 'SQL Server', 'Prisma', 'SQLAlchemy'],
-  },
-  {
     category: 'cloud',
-    items: ['AWS Lambda', 'Google Cloud Platform'],
+    items: ['Docker', 'AWS Lambda', 'Google Cloud Platform', 'GitHub Actions'],
   },
   {
     category: 'devops',
-    items: ['Docker', 'GitHub Actions'],
+    items: ['Git', 'GitHub', 'GitLab', 'GitKraken', 'Postman', 'Swagger'],
   },
   {
     category: 'tools',
-    items: ['Git', 'GitHub', 'GitLab', 'Swagger', 'Postman'],
+    items: ['FreeMarker', 'Oracle NetSuite', 'REST APIs', 'Bearer Token', 'Kali Linux', 'Metasploit', 'Nmap'],
   },
   {
     category: 'ai',
-    items: ['Groq API', 'REST APIs', 'Bearer Token'],
+    items: ['Claude Code', 'Antigravity', 'Groq API'],
   },
   {
     category: 'other',
-    items: ['FreeMarker', 'Oracle NetSuite', 'Scrum'],
+    items: ['Scrum', 'Patrón MVC', 'Diagramas UML', 'Excel Avanzado'],
   },
 ];

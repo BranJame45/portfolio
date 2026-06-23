@@ -8,35 +8,37 @@
     "contact": "Contact"
   },
   "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Brandon Jame Isla Cconislla",
     "title": "Junior Backend Developer",
-    "subtitle": "I build scalable APIs and robust backend systems with modern technologies. Passionate about clean architecture and well-crafted code.",
-    "cta_projects": "View Projects",
+    "subtitle": "Specialized in RESTful APIs, ERP integrations, and process automation. I build robust backend solutions with Node.js, Python, and cloud architectures.",
+    "cta_projects": "View projects",
     "cta_cv": "Download CV"
   },
   "about": {
     "title": "About Me",
-    "p1": "I am a junior backend developer with experience building REST APIs, ERP integrations, and process automation. I work with technologies like Node.js, NestJS, Python, and FastAPI, and have experience with Docker deployments and cloud services.",
-    "p2": "I currently work as a Developer Junior at LatamReady S.R.L., where I perform NetSuite ERP integrations and develop electronic invoicing solutions for the Spanish and Colombian markets.",
+    "p1": "Systems Engineering student (10th semester) with solid experience as a Junior Backend Developer. Specialized in designing, developing, and integrating RESTful services and APIs using Node.js and JSON-based architectures.",
+    "p2": "Experienced in web service consumption, secure authentication with Bearer Tokens, and Swagger documentation. I handle backend logic with JavaScript and Python, relational databases, and have a strong motivation for designing scalable architectures in Cloud environments.",
     "location_label": "Location",
-    "location_value": "Lima, Peru",
+    "location_value": "Rímac, Lima – Peru",
     "availability_label": "Availability",
     "availability_value": "Immediate",
-    "languages_label": "Languages",
-    "languages_value": "Spanish (Native), English (Basic)",
+    "phone_label": "Phone",
+    "phone_value": "(+51) 904 802 329",
     "university_label": "University",
-    "university_value": "UNTELS — Systems Engineering (10th cycle)"
+    "university_value": "UNTELS – Systems Engineering (10th sem.)"
   },
   "skills": {
     "title": "Technologies & Skills",
     "categories": {
       "backend": "Backend",
       "frontend": "Frontend",
-      "cloud": "Cloud",
-      "devops": "DevOps",
       "databases": "Databases",
-      "tools": "Tools",
-      "ai": "AI",
-      "other": "Other"
+      "cloud": "Cloud & DevOps",
+      "devops": "Version Control",
+      "tools": "Integrations & ERP",
+      "ai": "AI & Tools",
+      "other": "Methodologies"
     }
   },
   "projects": {
@@ -47,29 +49,38 @@
   },
   "experience": {
     "title": "Experience",
-    "job1_title": "Developer Junior",
+    "job1_title": "Junior Developer",
     "job1_company": "LatamReady S.R.L.",
     "job1_date": "May 2025 — Present",
-    "job1_desc": "NetSuite ERP integrations, electronic invoicing development for Spain and Colombia, REST API creation documented with Swagger.",
-    "job2_title": "Intern",
-    "job2_company": "IZIPAY",
+    "job1_desc": "Developed integrations and automated electronic invoicing in Oracle NetSuite ERP for clients in Spain and Colombia.",
+    "job1_bullet1": "Built XML templates with FreeMarker and JavaScript integrations to automate electronic invoicing processes in NetSuite ERP.",
+    "job1_bullet2": "Implemented automatic XML generation for electronic invoices in Spain following Spanish Tax Agency (AEAT) rules.",
+    "job1_bullet3": "Integrated XML submission to electronic providers via REST endpoints, with Bearer Token authentication and Swagger documentation.",
+    "job1_bullet4": "Implemented web service consumption to handle fiscal events in Colombia (acknowledgment, receipt, acceptance/claim) in an automated flow.",
+    "job1_bullet5": "Participated in requirements analysis, combining technical perspective with understanding of international tax regulations.",
+    "job2_title": "Development & Data Management Intern",
+    "job2_company": "Procesos de Medios de Pago S.A. (IZIPAY)",
     "job2_date": "January 2025 — March 2025",
-    "job2_desc": "Web scraping with Python to extract INDECOPI data, data migration and transformation, Excel report generation.",
+    "job2_desc": "Process automation and data management in a hybrid environment.",
+    "job2_bullet1": "Developed a Python web scraping script for the INDECOPI platform, extracting and structuring case data into a collaborative Excel sheet.",
+    "job2_bullet2": "Migrated and classified historical contract documentation to the internal system, ensuring data integrity and traceability.",
+    "job2_bullet3": "Automated report updates using pivot tables and charts in Excel, reducing report generation time.",
     "edu_title": "Systems Engineering",
-    "edu_company": "Universidad Nacional Tecnológica de Lima Sur (UNTELS)",
-    "edu_date": "2021 — 2026",
-    "edu_desc": "Training in software engineering, databases, networks, and technology project management."
+    "edu_company": "National Technological University of Lima Sur (UNTELS)",
+    "edu_date": "April 2021 — July 2026 (expected)",
+    "edu_desc": "Training in software engineering, databases, networking, systems architecture, and technology project management."
   },
   "certifications": {
     "title": "Certifications"
   },
   "contact": {
-    "title": "Contact",
+    "title": "Let's Talk",
+    "subtitle": "I'm open to new opportunities. Feel free to reach out.",
     "email_label": "Email",
     "linkedin_label": "LinkedIn",
     "github_label": "GitHub"
   },
   "footer": {
-    "copyright": "Brandon Isla. All rights reserved."
+    "copyright": "Brandon Jame Isla Cconislla. All rights reserved."
   }
 }
