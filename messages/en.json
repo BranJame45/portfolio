@@ -1,0 +1,75 @@
+{
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "experience": "Experience",
+    "certifications": "Certifications",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Junior Backend Developer",
+    "subtitle": "I build scalable APIs and robust backend systems with modern technologies. Passionate about clean architecture and well-crafted code.",
+    "cta_projects": "View Projects",
+    "cta_cv": "Download CV"
+  },
+  "about": {
+    "title": "About Me",
+    "p1": "I am a junior backend developer with experience building REST APIs, ERP integrations, and process automation. I work with technologies like Node.js, NestJS, Python, and FastAPI, and have experience with Docker deployments and cloud services.",
+    "p2": "I currently work as a Developer Junior at LatamReady S.R.L., where I perform NetSuite ERP integrations and develop electronic invoicing solutions for the Spanish and Colombian markets.",
+    "location_label": "Location",
+    "location_value": "Lima, Peru",
+    "availability_label": "Availability",
+    "availability_value": "Immediate",
+    "languages_label": "Languages",
+    "languages_value": "Spanish (Native), English (Basic)",
+    "university_label": "University",
+    "university_value": "UNTELS — Systems Engineering (10th cycle)"
+  },
+  "skills": {
+    "title": "Technologies & Skills",
+    "categories": {
+      "backend": "Backend",
+      "frontend": "Frontend",
+      "cloud": "Cloud",
+      "devops": "DevOps",
+      "databases": "Databases",
+      "tools": "Tools",
+      "ai": "AI",
+      "other": "Other"
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "view_github": "GitHub",
+    "view_demo": "Demo",
+    "in_progress": "In progress"
+  },
+  "experience": {
+    "title": "Experience",
+    "job1_title": "Developer Junior",
+    "job1_company": "LatamReady S.R.L.",
+    "job1_date": "May 2025 — Present",
+    "job1_desc": "NetSuite ERP integrations, electronic invoicing development for Spain and Colombia, REST API creation documented with Swagger.",
+    "job2_title": "Intern",
+    "job2_company": "IZIPAY",
+    "job2_date": "January 2025 — March 2025",
+    "job2_desc": "Web scraping with Python to extract INDECOPI data, data migration and transformation, Excel report generation.",
+    "edu_title": "Systems Engineering",
+    "edu_company": "Universidad Nacional Tecnológica de Lima Sur (UNTELS)",
+    "edu_date": "2021 — 2026",
+    "edu_desc": "Training in software engineering, databases, networks, and technology project management."
+  },
+  "certifications": {
+    "title": "Certifications"
+  },
+  "contact": {
+    "title": "Contact",
+    "email_label": "Email",
+    "linkedin_label": "LinkedIn",
+    "github_label": "GitHub"
+  },
+  "footer": {
+    "copyright": "Brandon Isla. All rights reserved."
+  }
+}

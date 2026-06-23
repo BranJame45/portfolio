@@ -1,0 +1,75 @@
+{
+  "nav": {
+    "about": "Sobre mí",
+    "skills": "Skills",
+    "projects": "Proyectos",
+    "experience": "Experiencia",
+    "certifications": "Certificaciones",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Desarrollador Backend Junior",
+    "subtitle": "Construyo APIs escalables y sistemas backend robustos con tecnologías modernas. Apasionado por la arquitectura limpia y el código bien escrito.",
+    "cta_projects": "Ver proyectos",
+    "cta_cv": "Descargar CV"
+  },
+  "about": {
+    "title": "Sobre Mí",
+    "p1": "Soy un desarrollador backend junior con experiencia en la construcción de APIs REST, integraciones con ERP y automatización de procesos. Trabajo con tecnologías como Node.js, NestJS, Python y FastAPI, y tengo experiencia en despliegues con Docker y servicios en la nube.",
+    "p2": "Actualmente me desempeño como Developer Junior en LatamReady S.R.L., donde realizo integraciones con NetSuite ERP y desarrollo soluciones de facturación electrónica para los mercados de España y Colombia.",
+    "location_label": "Ubicación",
+    "location_value": "Rímac, Lima – Perú",
+    "availability_label": "Disponibilidad",
+    "availability_value": "Inmediata",
+    "languages_label": "Idiomas",
+    "languages_value": "Español (Nativo), Inglés (Básico)",
+    "university_label": "Universidad",
+    "university_value": "UNTELS — Ingeniería de Sistemas (10° ciclo)"
+  },
+  "skills": {
+    "title": "Tecnologías y Habilidades",
+    "categories": {
+      "backend": "Backend",
+      "frontend": "Frontend",
+      "cloud": "Cloud",
+      "devops": "DevOps",
+      "databases": "Bases de Datos",
+      "tools": "Herramientas",
+      "ai": "Inteligencia Artificial",
+      "other": "Otros"
+    }
+  },
+  "projects": {
+    "title": "Proyectos",
+    "view_github": "GitHub",
+    "view_demo": "Demo",
+    "in_progress": "En progreso"
+  },
+  "experience": {
+    "title": "Experiencia",
+    "job1_title": "Developer Junior",
+    "job1_company": "LatamReady S.R.L.",
+    "job1_date": "Mayo 2025 — Actualidad",
+    "job1_desc": "Integraciones con NetSuite ERP, desarrollo de facturación electrónica para España y Colombia, creación de APIs REST documentadas con Swagger.",
+    "job2_title": "Practicante",
+    "job2_company": "IZIPAY",
+    "job2_date": "Enero 2025 — Marzo 2025",
+    "job2_desc": "Web scraping con Python para extraer datos de INDECOPI, migración y transformación de datos, generación de reportes en Excel.",
+    "edu_title": "Ingeniería de Sistemas",
+    "edu_company": "Universidad Nacional Tecnológica de Lima Sur (UNTELS)",
+    "edu_date": "2021 — 2026",
+    "edu_desc": "Formación en ingeniería de software, bases de datos, redes y gestión de proyectos tecnológicos."
+  },
+  "certifications": {
+    "title": "Certificaciones"
+  },
+  "contact": {
+    "title": "Contacto",
+    "email_label": "Correo",
+    "linkedin_label": "LinkedIn",
+    "github_label": "GitHub"
+  },
+  "footer": {
+    "copyright": "Brandon Isla. Todos los derechos reservados."
+  }
+}
